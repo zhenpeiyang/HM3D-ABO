@@ -152,6 +152,12 @@ bash process_abo.sh
 ## Citations
 If you use the our dataset in your research, please cite the following papers:
 ```bibtex
+@article{yang2022hm3d,
+  title={HM3D-ABO: A Photo-realistic Dataset for Object-centric Multi-view 3D Reconstruction},
+  author={Yang, Zhenpei and Zhang, Zaiwei and Huang, Qixing},
+  journal={arXiv preprint arXiv:2206.12356},
+  year={2022}
+}
 @inproceedings{ramakrishnan2021hm3d,
   title={Habitat-Matterport 3D Dataset ({HM}3D): 1000 Large-scale 3D Environments for Embodied {AI}},
   author={Santhosh Kumar Ramakrishnan and Aaron Gokaslan and Erik Wijmans and Oleksandr Maksymets and Alexander Clegg and John M Turner and Eric Undersander and Wojciech Galuba and Andrew Westbury and Angel X Chang and Manolis Savva and Yili Zhao and Dhruv Batra},
